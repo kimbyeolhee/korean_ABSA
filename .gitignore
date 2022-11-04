@@ -1,0 +1,11 @@
+# datafile
+*jsonl
+
+# model 
+*pt
+
+# etc
+__pycache__
+
+# wandb
+wandb
